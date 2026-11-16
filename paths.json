@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/varawat/ifb/language-masters/en:/",
+    "/content/varawat/ifb/language-masters/en/:/en/",
+    "/content/varawat/ifb/configuration:/.helix/config.json",
+    "/content/varawat/ifb/metadata:/metadata.json",
+    "/content/varawat/ifb/redirects:/redirects.json",
+    "/content/varawat/ifb/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/varawat/ifb/",
+    "/content/dam/varawat/ifb/"
   ]
 }
